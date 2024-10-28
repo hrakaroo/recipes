@@ -13,18 +13,18 @@ sit on the counter until the next day.
 ## Day 1
 
 Mix together
-400g white flour
-100g whole wheat flour 
-375g of water
+- [ ] 400g white flour
+- [ ] 100g whole wheat flour 
+- [ ] 375g of water
 
 Let that sit for 45 minutes to autolysis.
 
-add 75g of my starter and 10g of salt.  Mix well and let it sit for 30 mins
+- [ ] add 75g of my starter and 10g of salt.  Mix well and let it sit for 30 mins
 
-after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
-after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
-after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
-after 30 mins stretch and fold dough 4 times
+- [ ] after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
+- [ ] after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
+- [ ] after 30 mins stretch and fold dough 4 times, let sit for another 30 mins
+- [ ] after 30 mins stretch and fold dough 4 times
 
 let it sit for three hours.
 
